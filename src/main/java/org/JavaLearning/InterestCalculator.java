@@ -9,7 +9,7 @@ public class InterestCalculator
 {
     public static void main(String[] args)
     {
-        //A = P*(1+R)T
+        //A = P*(1+(R/N))^N*T
         System.out.println("Welcome to our Interest Calculator");
         System.out.println(" ");
         System.out.println("Would you like to Continue our Interest Calculator (Y/N)");
